@@ -1,4 +1,4 @@
-# Patient-Experience
+# Patient Experience Dashboard
 Dashboard for Patient Experience
 
 # Overview
